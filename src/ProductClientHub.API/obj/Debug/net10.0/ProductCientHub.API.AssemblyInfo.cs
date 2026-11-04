@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductCientHub.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa4536a9f16deb094d02cff50a65b5b1711b98c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductCientHub.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductCientHub.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

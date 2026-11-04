@@ -36,6 +36,16 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "ProductClientHub.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ProductClientHub.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductClientHub.Exceptions.dll": {}
+        }
       }
     }
   },
@@ -75,11 +85,17 @@
         "microsoft.openapi.2.12.2.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "ProductClientHub.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj",
+      "msbuildProject": "../ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.14"
+      "Microsoft.AspNetCore.OpenApi >= 10.0.14",
+      "ProductClientHub.Exceptions >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -107,7 +123,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj": {
+              "projectPath": "/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
