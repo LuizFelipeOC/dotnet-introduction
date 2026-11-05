@@ -1,0 +1,12 @@
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/bin/Debug/net10.0/ProductClientHub.Communication.deps.json
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/bin/Debug/net10.0/ProductClientHub.Communication.dll
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/bin/Debug/net10.0/ProductClientHub.Communication.pdb
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.AssemblyInfoInputs.cache
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.AssemblyInfo.cs
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.sourcelink.json
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.dll
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/refint/ProductClientHub.Communication.dll
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ProductClientHub.Communication.pdb
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.Communication/obj/Debug/net10.0/ref/ProductClientHub.Communication.dll

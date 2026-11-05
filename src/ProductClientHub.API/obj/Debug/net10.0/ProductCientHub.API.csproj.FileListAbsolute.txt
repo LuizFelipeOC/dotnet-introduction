@@ -35,3 +35,6 @@
 /Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/obj/Debug/net10.0/ProductCientHub.API.genruntimeconfig.cache
 /Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/obj/Debug/net10.0/ref/ProductCientHub.API.dll
 /Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/bin/Debug/net10.0/ProductClientHub.Communication.dll
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/bin/Debug/net10.0/ProductClientHub.Communication.pdb
+/Users/luizfelipe/projects/ProductClientHub/src/ProductClientHub.API/bin/Debug/net10.0/FluentValidation.dll

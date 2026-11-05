@@ -1,7 +1,11 @@
+using ProductCientHub.API.Filters;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
+
+builder.Services.AddMvc(option => option.Filters.Add(typeof(ExcecptionFilter)));
 
 var app = builder.Build();
 

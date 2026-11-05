@@ -8,12 +8,22 @@
     ".NETCoreApp,Version=v10.0": {
       "ProductCientHub.API/1.0.0": {
         "dependencies": {
+          "FluentValidation": "8.3.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.14",
+          "ProductClientHub.Communication": "1.0.0",
           "ProductClientHub.Exceptions": "1.0.0",
           "Swashbuckle.AspNetCore.SwaggerUI": "10.3.1"
         },
         "runtime": {
           "ProductCientHub.API.dll": {}
+        }
+      },
+      "FluentValidation/8.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.3.0.0"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/10.0.14": {
@@ -43,6 +53,14 @@
           }
         }
       },
+      "ProductClientHub.Communication/1.0.0": {
+        "runtime": {
+          "ProductClientHub.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ProductClientHub.Exceptions/1.0.0": {
         "runtime": {
           "ProductClientHub.Exceptions.dll": {
@@ -58,6 +76,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/8.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tQULydqVfFi68qjEw4Y+P3wM1Xp7kppLpUqPVKI6u8NDwlPVTm6V96qnLWCTO4khn7WtQ1p3ysnrNTl98fdJpA==",
+      "path": "fluentvalidation/8.3.0",
+      "hashPath": "fluentvalidation.8.3.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/10.0.14": {
       "type": "package",
@@ -79,6 +104,11 @@
       "sha512": "sha512-kXuMIVJBDD6qMwG78VUrKy4x5Ke98HU0Q023Sf2iSBO/x45c5BuByYPAExIs9UeVsjdGGgvLWU5jK8l6MO2Z0Q==",
       "path": "swashbuckle.aspnetcore.swaggerui/10.3.1",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.10.3.1.nupkg.sha512"
+    },
+    "ProductClientHub.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ProductClientHub.Exceptions/1.0.0": {
       "type": "project",
